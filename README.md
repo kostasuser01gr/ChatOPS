@@ -1,4 +1,4 @@
-# Kinsan Ops Platform
+# Kinsen Ops Platform
 
 A high-fidelity, cinematic fleet operations assistant dashboard built with Next.js, Tailwind CSS, and Framer Motion.
 
